@@ -27,6 +27,14 @@ This project is a digital space where I present my technical background, selecte
 
 Rather than using a conventional portfolio layout, I focused on creating a visually distinctive experience with modern design elements, smooth interactions, and carefully structured content.
 
+<p align="center">
+  <img
+    src="Creative%20Developer%20Point-Cloud%20Portrait.png"
+    alt="Chaitanya Patil - Developer Portfolio"
+    width="100%"
+  />
+</p>
+
 **Live Website:** [chaitanya-portfolio-rosy.vercel.app](https://chaitanya-portfolio-rosy.vercel.app/)
 
 ## Key Highlights
