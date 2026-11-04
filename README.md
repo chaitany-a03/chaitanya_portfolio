@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel" alt="Vercel" />
 </p>
 
+<p align="center">
+  <img
+    src="Creative%20Developer%20Point-Cloud%20Portrait.png"
+    alt="Chaitanya Patil - Developer Portfolio"
+    width="100%"
+  />
+</p>
+
+
 ---
 
 ## Overview
@@ -26,14 +35,6 @@ Welcome to my personal developer portfolio.
 This project is a digital space where I present my technical background, selected development projects, skills, and professional journey.
 
 Rather than using a conventional portfolio layout, I focused on creating a visually distinctive experience with modern design elements, smooth interactions, and carefully structured content.
-
-<p align="center">
-  <img
-    src="Creative%20Developer%20Point-Cloud%20Portrait.png"
-    alt="Chaitanya Patil - Developer Portfolio"
-    width="100%"
-  />
-</p>
 
 **Live Website:** [chaitanya-portfolio-rosy.vercel.app](https://chaitanya-portfolio-rosy.vercel.app/)
 
